@@ -1,4 +1,4 @@
-# Rubocop for Visual Studio Code
+# Rubocop for Visual Studio Code (CFEdition)
 
 ![travis status](https://travis-ci.org/misogi/vscode-ruby-rubocop.svg?branch=master)
 
