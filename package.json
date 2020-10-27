@@ -1,6 +1,6 @@
 {
   "name": "cloudfive-ruby-rubocop",
-  "version": "0.8.4",
+  "version": "0.8.5",
   "publisher": "CloudFive",
   "displayName": "cloudfive-ruby-rubocop",
   "description": "execute rubocop for current Ruby code.",
@@ -10,7 +10,7 @@
   "icon": "images/rubocop.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/misogi/vscode-ruby-rubocop.git"
+    "url": "git@github.com:CloudFiveDev/vscode-ruby-rubocop.git"
   },
   "categories": [
     "Programming Languages",
