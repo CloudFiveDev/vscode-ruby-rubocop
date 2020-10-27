@@ -36,7 +36,7 @@ const extensionConfig = pq('../src/configuration', {
 });
 
 const { RubocopConfig, getConfig } = extensionConfig;
-const canFindBundledCop = () => new Buffer('path/to/bundled/rubocop');
+const canFindBundledCop = () => Buffer.from('path/to/bundled/rubocop');
 const cannotFindBundledCop = () => {
   throw new Error('not found');
 };
